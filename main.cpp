@@ -174,18 +174,18 @@ int main() {
 int n;
     cin>>n;
 
-    while (n--) {
-                string s;
-        cin>>s;
-        set<char> ch;
-
-        for(int i=0;i<s.length() ;i++){
-            ch.insert(tolower(s[i]));
-        }cout<<ch.size()<<endl;
-
-
-
-    }
+//    while (n--) {
+//                string s;
+//        cin>>s;
+//        set<char> ch;
+//
+//        for(int i=0;i<s.length() ;i++){
+//            ch.insert(tolower(s[i]));
+//        }cout<<ch.size()<<endl;
+//
+//
+//
+//    }
 }
 //2
 //4
