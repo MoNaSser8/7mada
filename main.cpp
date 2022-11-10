@@ -156,21 +156,7 @@ int main() {
     freopen("output.txt", "w", stdout);
 #endif
 //    int main(){
-//        int n;
-//        cin>>n;
-//        string s;
-//        cin>>s;
-//        set<char> ch;
-//
-//        for(int i=0;i<s.length() ;i++){
-//            ch.insert(tolower(s[i]));
-//        }
-//        if(ch.size()<26){
-//            cout<<"NO";
-//        }
-//        else{
-//            cout<<"YES";
-//        }
+
 int n;
     cin>>n;
 
